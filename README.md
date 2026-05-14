@@ -35,7 +35,7 @@ The application was selected because it provides realistic e-commerce scenarios 
 
 ## 🎬Demo
 
-![Demo](assets/demo.gif)
+[Demo](cypress/assets/demo.gif)
 
 ---
 
