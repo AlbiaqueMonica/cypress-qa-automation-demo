@@ -33,6 +33,12 @@ Automation Exercise is a public demo application commonly used for QA automation
 The application was selected because it provides realistic e-commerce scenarios for UI and end-to-end testing.
 
 
+## 🎬Demo
+
+![Demo](assets/demo.gif)
+
+---
+
 ## ▶️How to Run
 
 ### Install dependencies

@@ -1,0 +1,24 @@
+{
+  "name": "cypress-qa-automation-demo",
+  "version": "1.0.0",
+  "description": "QA Automation Demo with Cypress: UI testing, API testing, reusable components, fixtures, and best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbiaqueMonica/cypress-qa-automation-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlbiaqueMonica/cypress-qa-automation-demo/issues"
+  },
+  "homepage": "https://github.com/AlbiaqueMonica/cypress-qa-automation-demo#readme",
+  "devDependencies": {
+    "cypress": "^15.15.0"
+  }
+}
