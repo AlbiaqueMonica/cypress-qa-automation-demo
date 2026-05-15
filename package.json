@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AlbiaqueMonica/cypress-qa-automation-demo#readme",
   "devDependencies": {
-    "cypress": "^15.15.0"
+    "cypress": "^15.15.0",
+    "dotenv": "^17.4.2"
   }
 }

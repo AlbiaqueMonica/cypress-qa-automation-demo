@@ -9,7 +9,7 @@ class LoginPage {
   }
 
   enterPassword(password) {
-    cy.get('[data-qa="login-password"]').type(password)
+    cy.get('[data-qa="login-password"]').type(password, { log: false })
   }
 
   clickLogin() {

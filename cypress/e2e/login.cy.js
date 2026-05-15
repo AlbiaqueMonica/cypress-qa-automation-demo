@@ -4,15 +4,18 @@ describe('Login Test', () => {
 
   it('Should login successfully with valid credentials', () => {
 
-    LoginPage.visit()
+    cy.env(['email', 'password']).then((env) => {
 
-    LoginPage.login(
-      'amonica1963@yahoo.com.ar',
-      'amonica1963'
-    )
+      LoginPage.visit()
 
-    cy.contains('Logged in as').should('be.visible')
+      LoginPage.login(
+        env.email,
+        env.password
+      )
+
+      cy.contains('Logged in as').should('be.visible')
+
+    })
 
   })
-
 })

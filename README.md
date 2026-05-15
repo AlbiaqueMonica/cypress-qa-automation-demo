@@ -39,6 +39,12 @@ The application was selected because it provides realistic e-commerce scenarios 
 
 ---
 
+## Environment Variables
+
+Create a `.env` file based on `.env.example`.
+
+```
+
 ## ▶️How to Run
 
 ### Install dependencies
@@ -69,6 +75,7 @@ npx cypress run
 - Reusable page objects
 - Custom commands
 - Screenshot capture on failure
+
 
 ## Project Structure
 
