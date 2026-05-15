@@ -37,13 +37,10 @@ The application was selected because it provides realistic e-commerce scenarios 
 
 [Demo](cypress/assets/demo.gif)
 
----
-
 ## Environment Variables
 
 Create a `.env` file based on `.env.example`.
 
-```
 
 ## ▶️How to Run
 
